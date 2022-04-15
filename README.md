@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NandoHolder - Graduated in Marketing, Publicity and Advertising.
+- 👋 Hi, I’m @FernandoFavero - Graduated in Marketing, Publicity and Advertising.
 - 👀 I’m interested in front-end solutions.
 - 🌱 I’m currently learning css & Javascript.
 - 📫 How to reach me ? Send me a email: fefavero@hotmail.com {'see you!'}.
