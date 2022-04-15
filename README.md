@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandoHolder
-- 👀 I’m interested in fontend solutions.
+- 👀 I’m interested in front-end solutions.
 - 🌱 I’m currently learning css & Javascript.
 - 📫 How to reach me ? Send me a email: fefavero@hotmail.com {'see you!'}.
 <!---
